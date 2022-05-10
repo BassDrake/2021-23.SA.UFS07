@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/BassDrake/2021-23.SA.UFS07/compare/v1.3.0...v1.4.0) (2022-05-10)
+
+
+### Features
+
+* add URL in README ([48b6406](https://github.com/BassDrake/2021-23.SA.UFS07/commit/48b6406f12bac1f606167ab7bbb090232f219553))
+* fix deploy ([86d72a9](https://github.com/BassDrake/2021-23.SA.UFS07/commit/86d72a9b4ea1b04804e98db76f21b080d527052f))
+
 ## 1.3.0 (2022-05-10)
 
 
