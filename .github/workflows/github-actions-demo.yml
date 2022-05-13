@@ -39,8 +39,8 @@ jobs:
       - name: Chromatic design-system.react
         working-directory: design-system/react
         run: |
-          npm install
-          npx chromatic --force-rebuild 
+          npm run build-storybook
+          cp -R storybook-static ../../progetto-frontend-vanilla/dist/
       - name: Upload the artifact
         uses: actions/upload-artifact@v2
         with:
