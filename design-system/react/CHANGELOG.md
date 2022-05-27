@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.4](https://github.com/BassDrake/2021-23.SA.UFS07/compare/ds1.2.3...ds1.2.4) (2022-05-27)
+
+
+### Bug Fixes
+
+* changed index.html script name ([85a8ab3](https://github.com/BassDrake/2021-23.SA.UFS07/commit/85a8ab3096a7ce5f4f5b342da5017c276836f5ec))
+
 ### [1.2.3](https://github.com/BassDrake/2021-23.SA.UFS07/compare/ds1.2.2...ds1.2.3) (2022-05-24)
 
 ### [1.2.2](https://github.com/BassDrake/2021-23.SA.UFS07/compare/ds1.2.1...ds1.2.2) (2022-05-24)
